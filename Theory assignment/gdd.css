@@ -8,3 +8,16 @@
 .body{
 	background-color: magenta;
 }
+
+.h1{
+	font-family: tahoma;
+}
+
+.h4{
+	font-family: sans-serif;
+}
+
+.h{
+	font-size: 500%;
+	font-family: forte;
+}
